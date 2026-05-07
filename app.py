@@ -29,4 +29,3 @@ if uploaded_file:
 
     total = df[metric].sum()
     st.write(f"Total: {total:,.0f}")
-``
